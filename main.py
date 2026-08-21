@@ -186,8 +186,8 @@ st.map(df)
 # Information about the project
 st.subheader('About this project')
 st.write("""
-This project was developed for the MSME Idea Hackathon 4.0. It uses machine learning models
-trained on synthetic data to predict CO2, CO, and CH4 concentrations at different locations for the next 60 days.
+This is developed for Final Year Project. It uses machine learning models
+trained on GHG Datasets to predict CO2, CO, and CH4 concentrations at different locations for the next 60 days.
 When available, the predictions are compared with real-time air quality data and forecasts from OpenWeatherMap.
 """)
 
