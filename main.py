@@ -203,7 +203,7 @@ The models' performance metrics on the test set:
 
 # Disclaimer
 st.sidebar.success("""
-This is a demonstration app using models trained on synthetic data based on real-world patterns.
+This is a demonstration app using models trained on GHG Dataset based on real-world patterns.
 
 Disclaimer: Real-world gas concentrations may vary significantly from these predictions.
 """)
