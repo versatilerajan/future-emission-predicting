@@ -186,7 +186,7 @@ st.map(df)
 # Information about the project
 st.subheader('About this project')
 st.write("""
-This is developed for Final Year Project. It uses machine learning models
+This is developed for Final Year Project by Rajan Singh, Parul Sharma, Pranshu Jadon and Vanisha Sharma. It uses machine learning models
 trained on GHG Datasets to predict CO2, CO, and CH4 concentrations at different locations for the next 60 days.
 When available, the predictions are compared with real-time air quality data and forecasts from OpenWeatherMap.
 """)
